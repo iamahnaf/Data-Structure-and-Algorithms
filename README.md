@@ -26,4 +26,4 @@ I'm an Undergraduate Computer Science student with a passion for problem-solving
 📫 Contact
 Email: mtahmid2310203@bscse.uiu.ac.bd
 
-LinkedIn: https://www.linkedin.com/in/iamahnaf
+- LinkedIn: 💼 [My LinkedIn Profile](https://www.linkedin.com/in/iamahnaf)
