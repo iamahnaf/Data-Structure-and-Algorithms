@@ -24,6 +24,6 @@ git clone https://github.com/iamahnaf/DSA
 I'm an Undergraduate Computer Science student with a passion for problem-solving and a love for coding! 💡 If you're interested in discussing algorithms, feel free to reach out!
 
 📫 Contact
-Email: mtahmid2310203@bscse.uiu.ac.bd
+Email: [My Email](mtahmid2310203@bscse.uiu.ac.bd)
 
 - LinkedIn: 💼 [My LinkedIn Profile](https://www.linkedin.com/in/iamahnaf)
