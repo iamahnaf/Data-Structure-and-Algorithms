@@ -18,8 +18,12 @@ The repository is organized into folders, each representing a specific DSA topic
 Clone the repository:
 ```bash
 git clone https://github.com/iamahnaf/DSA
-👨‍💻 About Me
+```
+
+## 👨‍💻 About Me
 I'm an Undergraduate Computer Science student with a passion for problem-solving and a love for coding! 💡 If you're interested in discussing algorithms, feel free to reach out!
+
 📫 Contact
 Email: mtahmid2310203@bscse.uiu.ac.bd
+
 LinkedIn: https://www.linkedin.com/in/iamahnaf
