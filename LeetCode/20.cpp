@@ -22,6 +22,6 @@ bool isValid(string s){
     return stk.empty();
 }
 int main(){
-    string s="((";
+    string s="[{()}]";
     cout<<isValid(s);
 }
