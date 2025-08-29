@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-//https://docs.google.com/document/d/1xOm3nFAhGq3s4DSGP_7kSsRXp5R8Ps6U7wNFy9ZfyPg/edit?tab=t.0
+//https://tin.al/ahnafdsa
 // -------------------- FAST I/O --------------------
 #define FAST_IO ios::sync_with_stdio(false); cin.tie(nullptr);
 
