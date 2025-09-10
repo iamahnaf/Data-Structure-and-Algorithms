@@ -6,7 +6,7 @@ struct TreeNode {
     int value;
     TreeNode* left;
     TreeNode* right;
-    
+    TreeNode(int val) : value(val), left(nullptr), right(nullptr) {}
 };
 
 void inorderTraversal(TreeNode* root, vector<int>& result) {
