@@ -7,5 +7,5 @@ int febo(int x){
     return febo(x-1)+febo(x-2);
 }
 int main(){
-   cout<<febo(7);
+   cout<<febo(2);
 }
