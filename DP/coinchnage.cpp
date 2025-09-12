@@ -51,7 +51,7 @@ int coinChange(vector<int> coins,int sum){
     return dp[n][sum];
 }
 int main(){
-    vector<int> coins={1,2,5};
+    vector<int> coins={1,2,4,6};
     int sum=11;
     cout<<change(coins,sum);
 }
