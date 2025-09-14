@@ -21,7 +21,7 @@ int unbounded(vector<int> val,vector<int> wt,int W){
     return dp[n][W];
 }
 int main(){
-    vector<int> val={15,14,10,45,30};
+    vector<int> val={17,14,10,45,30};
     vector<int> wt={2,5,1,3,4};
     int W=7;
     cout<<unbounded(val,wt,W);
