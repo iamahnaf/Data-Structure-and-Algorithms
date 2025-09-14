@@ -6,7 +6,7 @@ int coins(vector<int> coin,int amount){
         return 0;
     }
     if(amount < 0){
-        return INT16_MAX;
+        
     }
     int mini=INT16_MAX;
     for(int i=0;i<coin.size();i++){
